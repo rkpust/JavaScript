@@ -31,3 +31,13 @@ For testing purposes, it is convenient to use document.write():
 
 The document.write() method should only be used for testing.
 
+--------------------------------------------------------------------------------------
+
+Using window.alert()
+
+You can use an alert box to display data: window.alert().html
+
+-----------------------------------------
+
+
+
