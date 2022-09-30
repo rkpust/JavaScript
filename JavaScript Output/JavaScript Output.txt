@@ -27,4 +27,7 @@ For testing purposes, it is convenient to use document.write():
 
 ---------------------------------------------------------------------------------------
 
+#Using document.write() after an HTML document is loaded, will delete all existing HTML:
+
+The document.write() method should only be used for testing.
 
