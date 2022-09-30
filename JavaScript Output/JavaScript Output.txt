@@ -18,3 +18,13 @@ The id attribute defines the HTML element. The innerHTML property defines the HT
 Changing the innerHTML property of an HTML element is a common way to display data in HTML.
 
 -------------------------------------------------------------------------------------------
+
+Using document.write()
+
+For testing purposes, it is convenient to use document.write():
+
+#Using document.write() after an HTML document is loaded, will delete all existing HTML:
+
+---------------------------------------------------------------------------------------
+
+
