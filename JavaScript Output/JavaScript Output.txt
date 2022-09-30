@@ -47,5 +47,16 @@ specifying the window keyword is optional:
 
 Example: alert().html
 
+--------------------------------------------------------------------------------
+
+Using console.log()
+
+For debugging purposes, you can call the console.log() method in the browser to display data.
+Example: console.log().html
+
+----------------------------------------------------------------------------------------------
+
+
+
 
 
