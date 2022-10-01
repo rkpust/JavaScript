@@ -9,3 +9,22 @@ A JavaScript program is a list of programming statements.
 #In HTML, JavaScript programs are executed by the web browser.
 
 ----------------------------------------------------------------------------------
+
+JavaScript statements are composed of:
+
+Values, Operators, Expressions, Keywords, and Comments.
+
+Most JavaScript programs contain many JavaScript statements.
+
+The statements are executed, one by one, in the same order as they are written.
+
+#JavaScript programs (and JavaScript statements) are often called JavaScript code.
+
+Semicolons separate JavaScript statements.
+
+When separated by semicolons, multiple statements on one line are allowed: a = 5; b = 6; c = a + b;
+
+#On the web, you might see examples without semicolons.
+#Ending statements with semicolon is not required, but highly recommended.
+
+-----------------------------------------------------------------------------------
