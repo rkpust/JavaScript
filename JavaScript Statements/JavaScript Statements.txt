@@ -51,3 +51,19 @@ Example
 
 document.getElementById("demo").innerHTML =
 "Hello Rezaul!"; 
+
+-----------------------------------------------------------------------------
+
+JavaScript Code Blocks
+
+JavaScript statements can be grouped together in code blocks, inside curly brackets {...}.
+
+The purpose of code blocks is to define statements to be executed together.
+
+One place you will find statements grouped together in blocks, is in JavaScript functions:
+
+Example: JS-Codeblocks.HTML
+
+#In this tutorial we use 2 spaces of indentation for code blocks.
+
+--------------------------------------------------------------------------------------------
