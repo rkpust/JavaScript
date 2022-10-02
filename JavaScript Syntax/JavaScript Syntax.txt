@@ -76,3 +76,23 @@ For example, "Rezaul" + " "  + "Karim", evaluates to "Rezaul Karim":
 Example: JS-Expressions.html
 
 ----------------------------------------------------------------------------
+
+JavaScript Keywords
+
+JavaScript keywords are used to identify actions to be performed.
+
+The let keyword tells the browser to create variables:
+let x, y;
+x = 5 + 6;
+y = x * 10;
+
+The var keyword also tells the browser to create variables:
+var a, b;
+a = 5 + 6;
+b = a * 10;
+
+#In these examples, using var or let will produce the same result.
+
+Example:JS-Keywords.html
+
+-----------------------------------------------------------------
