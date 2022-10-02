@@ -47,3 +47,12 @@ let x;
 x = 6; 
 
 -----------------------------------------------------------------
+
+JavaScript Operators
+
+JavaScript uses arithmetic operators ( + - * / ) to compute values: 
+JavaScript uses an assignment operator ( = ) to assign values to variables:
+
+Example: JS-Operators.html
+
+--------------------------------------------------------------------
