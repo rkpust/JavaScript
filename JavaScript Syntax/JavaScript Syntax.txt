@@ -127,3 +127,15 @@ Subsequent characters may be letters, digits, underscores, or dollar signs.
 #Numbers are not allowed as the first character in names.
 
 #This way JavaScript can easily distinguish identifiers from numbers.
+
+-------------------------------------------------------------------------
+
+JavaScript is Case Sensitive
+
+All JavaScript identifiers are case sensitive. 
+
+The variables lastName and lastname, are two different variables: JS-Case-Sensitive.html
+
+#JavaScript does not interpret LET or Let as the keyword let.
+
+-----------------------------------------------------------------------------
