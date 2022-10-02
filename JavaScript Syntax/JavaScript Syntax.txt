@@ -22,3 +22,14 @@ Fixed values are called Literals.
 Variable values are called Variables.
 
 ------------------------------------------------------
+
+JavaScript Literals
+
+The two most important syntax rules for fixed values are:
+
+1. Numbers are written with or without decimals:
+2. Strings are text, written within double or single quotes:
+
+Example: JS-Literals.html
+
+---------------------------------------------------------
