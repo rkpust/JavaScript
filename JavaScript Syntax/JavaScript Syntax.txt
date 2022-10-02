@@ -139,3 +139,27 @@ The variables lastName and lastname, are two different variables: JS-Case-Sensit
 #JavaScript does not interpret LET or Let as the keyword let.
 
 -----------------------------------------------------------------------------
+
+JavaScript and Camel Case
+
+Historically, programmers have used different ways of joining multiple words into one variable name:
+
+Hyphens:
+
+first-name, last-name, master-card, inter-city.
+
+#Hyphens are not allowed in JavaScript. They are reserved for subtractions.
+
+Underscore:
+
+first_name, last_name, master_card, inter_city.
+
+Upper Camel Case (Pascal Case):
+
+FirstName, LastName, MasterCard, InterCity.
+
+Lower Camel Case:
+
+JavaScript programmers tend to use camel case that starts with a lowercase letter:
+
+firstName, lastName, masterCard, interCity.
