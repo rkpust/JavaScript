@@ -163,3 +163,11 @@ Lower Camel Case:
 JavaScript programmers tend to use camel case that starts with a lowercase letter:
 
 firstName, lastName, masterCard, interCity.
+
+-------------------------------------------------------------
+
+JavaScript Character Set
+
+JavaScript uses the Unicode character set.
+
+Unicode covers (almost) all the characters, punctuations, and symbols in the world.
