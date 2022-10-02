@@ -56,3 +56,23 @@ JavaScript uses an assignment operator ( = ) to assign values to variables:
 Example: JS-Operators.html
 
 --------------------------------------------------------------------
+
+JavaScript Expressions
+
+An expression is a combination of values, variables, and operators, which computes to a value.
+
+The computation is called an evaluation.
+
+For example, 8 * 9 evaluates to 72:
+
+Expressions can also contain variable values:
+x * 10
+
+The values can be of various types, such as numbers and strings.
+
+For example, "Rezaul" + " "  + "Karim", evaluates to "Rezaul Karim":
+"Rezaul" + " "  + "Karim"
+
+Example: JS-Expressions.html
+
+----------------------------------------------------------------------------
