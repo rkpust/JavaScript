@@ -13,3 +13,16 @@ This example uses a single-line comment before each code line: JS-Single-Line-Co
 This example uses a single line comment at the end of each line to explain the code: JS-Single-Line-Comments.html
 
 ------------------------------------------------------------------------------------
+
+Multi-line Comments
+
+Multi-line comments start with /* and end with */.
+
+Any text between /* and */ will be ignored by JavaScript.
+
+This example uses a multi-line comment (a comment block) to explain the code: JS-Multi-Line-Comments.html
+
+#It is most common to use single line comments.
+#Block comments are often used for formal documentation.
+
+--------------------------------------------------------------------------------------
