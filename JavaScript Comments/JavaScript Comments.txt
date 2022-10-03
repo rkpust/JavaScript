@@ -26,3 +26,12 @@ This example uses a multi-line comment (a comment block) to explain the code: JS
 #Block comments are often used for formal documentation.
 
 --------------------------------------------------------------------------------------
+
+Using Comments to Prevent Execution
+
+Using comments to prevent execution of code is suitable for code testing.
+
+Adding // in front of a code line changes the code lines from an executable line to a comment.
+
+This example uses // to prevent execution of one of the code lines: Prevent-Execution.html
+This example uses a comment block to prevent execution of multiple lines: Prevent-Execution.html
