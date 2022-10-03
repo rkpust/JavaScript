@@ -4,3 +4,12 @@ JavaScript comments can be used to explain JavaScript code, and to make it more 
 
 JavaScript comments can also be used to prevent execution, when testing alternative code.
 ----------------------------------------------------------------------------------
+
+Single line comments start with //.
+
+Any text between // and the end of the line will be ignored by JavaScript (will not be executed).
+
+This example uses a single-line comment before each code line: JS-Single-Line-Comments.html
+This example uses a single line comment at the end of each line to explain the code: JS-Single-Line-Comments.html
+
+------------------------------------------------------------------------------------
