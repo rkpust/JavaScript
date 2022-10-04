@@ -110,6 +110,22 @@ In JavaScript, however, it makes perfect sense: it assigns the value of x + 5 to
 
 ---------------------------------------------------------------
 
+JavaScript Data Types
+
+JavaScript variables can hold numbers like 100 and text values like "John Doe".
+
+In programming, text values are called text strings.
+
+JavaScript can handle many types of data, but for now, just think of numbers and strings.
+
+Strings are written inside double or single quotes. Numbers are written without quotes.
+
+If you put a number in quotes, it will be treated as a text string.
+
+Example: JS-Data-Types.html
+
+---------------------------------------------------------------------
+
 
 
 
