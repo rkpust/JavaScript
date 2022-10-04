@@ -249,6 +249,14 @@ In jQuery $("p"); means "select all p elements".
 --------------------------------------------------------------------------------------
 
 
+JavaScript Underscore (_)
+
+Since JavaScript treats underscore as a letter, identifiers containing _ are valid variable names:
+Example: JS-Variable-Underscore.html
+
+Using the underscore is not very common in JavaScript, but a convention among professional programmers
+is to use it as an alias for "private (hidden)" variables.
+
 
 
 
