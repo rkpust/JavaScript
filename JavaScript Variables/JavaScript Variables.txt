@@ -187,6 +187,24 @@ The variable carName will have the value undefined after the execution of this s
 
 ------------------------------------------------------------------------------------------------------
 
+Re-Declaring JavaScript Variables
+
+If you re-declare a JavaScript variable declared with var, it will not lose its value.
+
+The variable carName will still have the value "Volvo" after the execution of these statements:
+Example
+var carName = "Volvo";
+var carName;
+
+
+#Note: You cannot re-declare a variable declared with let or const.
+
+This will not work:
+let carName = "Volvo";
+let carName;
+
+-----------------------------------------------------------------------------------------
+
 
 
 
