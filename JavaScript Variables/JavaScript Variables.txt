@@ -233,6 +233,23 @@ let x = 2 + 3 + "5";
 
 -----------------------------------------------------------------------------------
 
+JavaScript Dollar Sign $
+
+Since JavaScript treats a dollar sign as a letter, identifiers containing $ are valid variable names:
+
+Example: JS-Variable-Dollar.html
+
+
+Using the dollar sign is not very common in JavaScript, but professional programmers often use it as
+an alias for the main function in a JavaScript library.
+
+In the JavaScript library jQuery, for instance, the main function $ is used to select HTML elements.
+In jQuery $("p"); means "select all p elements".
+
+--------------------------------------------------------------------------------------
+
+
+
 
 
 
