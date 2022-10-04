@@ -205,6 +205,34 @@ let carName;
 
 -----------------------------------------------------------------------------------------
 
+JavaScript Arithmetic
+
+As with algebra, you can do arithmetic with JavaScript variables, using operators like = and +:
+Example
+let x = 5 + 2 + 3;
+
+#Output: x=10
+
+You can also add strings, but strings will be concatenated:
+Example
+let x = "Rezaul" + " " + "Karim";
+
+Also try this:
+Example
+let x = "5" + 2 + 3;
+
+#Output: x=523
+
+#Note: If you put a number in quotes, the rest of the numbers will be treated as strings, and concatenated.
+
+Now try this:
+Example
+let x = 2 + 3 + "5";
+
+#Output: x=55
+
+-----------------------------------------------------------------------------------
+
 
 
 
