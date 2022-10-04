@@ -159,6 +159,23 @@ document.getElementById("demo").innerHTML = carName;
 
 --------------------------------------------------------------------------------------------------
 
+One Statement, Many Variables
+
+You can declare many variables in one statement.
+
+Start the statement with let and separate the variables by comma:
+Example
+let person = "Rezaul Karim", carName = "Volvo", price = 200;
+
+
+A declaration can span multiple lines:
+Example
+let person = "Rezaul Karim",
+carName = "Volvo",
+price = 200;
+
+------------------------------------------------------------------------------------------
+
 
 
 
