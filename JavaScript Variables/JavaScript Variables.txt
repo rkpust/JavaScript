@@ -14,4 +14,27 @@ Variables are containers for storing data (storing data values).
 
 In this example, x, y, and z, are variables, declared with the var keyword: JS-Variable-var.html
 
+In this example, x, y, and z, are variables, declared with the let keyword:
+Example
+let x = 5;
+let y = 6;
+let z = x + y;
+
+In this example, x, y, and z, are undeclared variables:
+Example
+x = 5;
+y = 6;
+z = x + y; 
+
+
+When to Use JavaScript var?
+
+Always declare JavaScript variables with var,let, orconst.
+
+The var keyword is used in all JavaScript code from 1995 to 2015.
+
+The let and const keywords were added to JavaScript in 2015.
+
+If you want your code to run in older browsers, you must use var.
+
 ------------------------------------------------------------------------------------------------
