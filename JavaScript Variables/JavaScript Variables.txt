@@ -58,3 +58,20 @@ This is a value that can be changed.
 
 ----------------------------------------------------------------------
 
+Just Like Algebra
+
+Just like in algebra, variables hold values:
+let x = 5;
+let y = 6;
+
+Just like in algebra, variables are used in expressions:
+let z = x + y;
+
+From the example above, you can guess that the total is calculated to be 11.
+
+#Note
+#Variables are containers for storing values.
+
+-------------------------------------------------------------
+
+
