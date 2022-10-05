@@ -83,3 +83,7 @@ Chrome 49 	Edge 12 	Firefox 44 	Safari 11 	Opera 36
 Mar, 2016 	Jul, 2015 	Jan, 2015 	Sep, 2017 	Mar, 2016
 
 -----------------------------------------------------------------------------
+
+Redeclaring
+
+Redeclaring a JavaScript variable with var is allowed anywhere in a program: JS-Redeclared-var1.html
