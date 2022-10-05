@@ -8,3 +8,9 @@ Variables defined with const cannot be Reassigned.
 
 Variables defined with const have Block Scope.
 
+--------------------------------------------------
+
+Cannot be Reassigned
+
+A const variable cannot be reassigned: JS-Reassigned-const.html
+
