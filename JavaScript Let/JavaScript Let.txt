@@ -59,3 +59,9 @@ Example:
 // x CAN be used here
 
 ------------------------------------------------------------------------------
+
+Redeclaring Variables
+
+Redeclaring a variable using the var keyword can impose problems.
+
+Redeclaring a variable inside a block will also redeclare the variable outside the block: JS-Redeclared-var.html
