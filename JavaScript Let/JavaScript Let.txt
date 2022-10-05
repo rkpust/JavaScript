@@ -86,4 +86,24 @@ Mar, 2016 	Jul, 2015 	Jan, 2015 	Sep, 2017 	Mar, 2016
 
 Redeclaring
 
-Redeclaring a JavaScript variable with var is allowed anywhere in a program: JS-Redeclared-var1.html
+Redeclaring a JavaScript variable with var is allowed anywhere in a program: JS-Redeclared-var-1.html
+
+
+With let, redeclaring a variable in the same block is NOT allowed:
+Example
+var x = 2;   // Allowed
+let x = 3;   // Not allowed
+
+{
+let x = 2;   // Allowed
+let x = 3;   // Not allowed
+}
+
+{
+let x = 2;   // Allowed
+var x = 3;   // Not allowed
+}
+
+Redeclaring a variable with let, in another block, IS allowed: JS-Redeclared-let-1.html
+
+------------------------------------------------------------------------------
