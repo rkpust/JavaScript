@@ -107,3 +107,13 @@ var x = 3;   // Not allowed
 Redeclaring a variable with let, in another block, IS allowed: JS-Redeclared-let-1.html
 
 ------------------------------------------------------------------------------
+
+Let Hoisting
+
+Variables defined with var are hoisted to the top and can be initialized at any time.
+
+Meaning: You can use the variable before it is declared: JS-Hoisting-var.html
+Example:
+
+carName = "Volvo";
+var carName;
