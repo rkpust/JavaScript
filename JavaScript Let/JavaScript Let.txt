@@ -9,3 +9,25 @@ The let keyword was introduced in ES6 (2015).
 #Variables defined with let have Block Scope.
 
 ---------------------------------------------------------
+
+Cannot be Redeclared
+
+Variables defined with let cannot be redeclared.
+
+You cannot accidentally redeclare a variable.
+
+With let you can not do this:
+Example:
+let x = "Rezaul Karim";
+
+let x = 0;
+
+// SyntaxError: 'x' has already been declared
+
+With var you can:
+Example:
+var x = "Rezaul Karim";
+
+var x = 0;
+
+------------------------------------------------------
