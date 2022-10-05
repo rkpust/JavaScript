@@ -72,3 +72,14 @@ Redeclaring a variable using the let keyword can solve this problem.
 Redeclaring a variable inside a block will not redeclare the variable outside the block: JS-Redeclared-let.html
 
 ---------------------------------------------------------------------------------------------------
+
+Browser Support
+
+The let keyword is not fully supported in Internet Explorer 11 or earlier.
+
+The following table defines the first browser versions with full support for the let keyword:
+				
+Chrome 49 	Edge 12 	Firefox 44 	Safari 11 	Opera 36
+Mar, 2016 	Jul, 2015 	Jan, 2015 	Sep, 2017 	Mar, 2016
+
+-----------------------------------------------------------------------------
