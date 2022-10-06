@@ -88,4 +88,16 @@ Example:
 const car = {type:"Fiat", model:"500", color:"white"};
 car = {type:"Volvo", model:"EX60", color:"red"};    // ERROR 
 
+-------------------------------------------------------------------------
+
+Browser Support
+
+The const keyword is not supported in Internet Explorer 10 or earlier.
+
+The following table defines the first browser versions with full support for the const keyword:
+				
+Chrome 49 	IE 11 / Edge 	Firefox 36 	Safari 10 	Opera 36
+Mar, 2016 	Oct, 2013 	Feb, 2015 	Sep, 2016 	Mar, 2016
+
+-------------------------------------------------------------------------------------------------
 
