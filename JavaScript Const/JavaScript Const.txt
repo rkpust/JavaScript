@@ -63,5 +63,19 @@ Because of this you can NOT:
     Change the elements of constant array
     Change the properties of constant object
 
+------------------------------------------------------------------
+
+Constant Arrays
+
+You can change the elements of a constant array: JS-Const-Array.html
+
+But you can NOT reassign the array:
+Example:
+const cars = ["Saab", "Volvo", "BMW"];
+
+cars = ["Toyota", "Volvo", "Audi"];    // ERROR 
+
+--------------------------------------------------------------------
+
 
 
