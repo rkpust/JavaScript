@@ -101,3 +101,10 @@ Mar, 2016 	Oct, 2013 	Feb, 2015 	Sep, 2016 	Mar, 2016
 
 -------------------------------------------------------------------------------------------------
 
+Block Scope
+
+Declaring a variable with const is similar to let when it comes to Block Scope.
+
+The x declared in the block, in this example, is not the same as the x declared outside the block: 
+JS-Const-Block.html
+
