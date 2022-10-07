@@ -45,3 +45,27 @@ Operator 	Description
 % 	        Modulus (Division Remainder)
 ++ 	        Increment
 -- 	        Decrement
+
+------------------------------------------------------------------
+
+JavaScript Assignment Operators
+
+Assignment operators assign values to JavaScript variables.
+Operator 	Example 	Same As
+
+= 	        x = y 	    x = y
++= 	        x += y 	    x = x + y
+-= 	        x -= y 	    x = x - y
+*= 	        x *= y 	    x = x * y
+/= 	        x /= y 	    x = x / y
+%= 	        x %= y 	    x = x % y
+**= 	    x **= y 	x = x ** y
+
+The addition assignment operator (+=) adds a value to a variable.
+Assignment:
+
+let x = 10;
+x += 5; 
+
+
+
