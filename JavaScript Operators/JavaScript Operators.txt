@@ -15,3 +15,16 @@ Multiplying:
 let x = 5;
 let y = 2;
 let z = x * y;
+
+-----------------------------------------------------------------------
+
+Types of JavaScript Operators
+
+There are different types of JavaScript operators:
+
+    * Aritmetic Operators
+    * Assignment Operators
+    * Comparison Operators
+    * Logical Operators
+    * Conditional Operators
+    * Type Operators
