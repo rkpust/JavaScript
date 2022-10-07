@@ -90,3 +90,12 @@ What a very nice day
 
 #Note: When used on strings, the + operator is called the concatenation operator.
 
+---------------------------------------------------------------------------------
+
+Adding Strings and Numbers
+
+Adding two numbers, will return the sum, but adding a number and a string will return a string:
+Example: JS-Add-Number-String.html
+
+#Note: If you add a number and a string, the result will be a string!
+
