@@ -71,3 +71,22 @@ x += 5;
 
 Exponentiation Operator: JS-Exponentiation.html
 
+------------------------------------------------------------------
+
+Adding JavaScript Strings
+
+The + operator can also be used to add (concatenate) strings.
+Example: JS-Add-Strings.html
+
+The += assignment operator can also be used to add (concatenate) strings:
+Example:
+
+let text1 = "What a very ";
+text1 += "nice day";
+
+The result of text1 will be:
+What a very nice day
+
+
+#Note: When used on strings, the + operator is called the concatenation operator.
+
