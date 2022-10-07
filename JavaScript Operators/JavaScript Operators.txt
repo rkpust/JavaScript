@@ -1,0 +1,17 @@
+JavaScript Operators
+Example:
+
+Assign values to variables and add them together: JS-Add-Assignment.html
+
+The assignment operator (=) assigns a value to a variable.
+Assignment:
+
+let x = 10; 
+
+
+The multiplication operator (*) multiplies numbers.
+Multiplying:
+
+let x = 5;
+let y = 2;
+let z = x * y;
