@@ -60,3 +60,10 @@ Multiplying
 
 The multiplication operator (*) multiplies numbers.
 Example: JS-multiplication.html
+
+----------------------------------------------
+
+Dividing
+
+The division operator (/) divides numbers.
+Example: JS-division.html
