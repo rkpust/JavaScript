@@ -81,3 +81,10 @@ Example: JS-modulus.html
 *In arithmetic, the division of two integers produces a quotient and a remainder.
 
 *In mathematics, the result of a modulo operation is the remainder of an arithmetic division.
+
+---------------------------------------------------------------------------------------------
+
+Incrementing
+
+The increment operator (++) increments numbers.
+Example: JS-increment.html
