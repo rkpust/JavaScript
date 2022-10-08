@@ -40,3 +40,9 @@ The operation (to be performed between the two operands) is defined by an operat
 
 Operand 	Operator 	Operand
 100 	       + 	    50
+
+-----------------------------------------------------------------------------------
+
+Adding
+
+The addition operator (+) adds numbers: JS-addition.html
