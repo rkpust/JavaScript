@@ -67,3 +67,17 @@ Dividing
 
 The division operator (/) divides numbers.
 Example: JS-division.html
+
+------------------------------------------
+
+Remainder
+
+The modulus operator (%) returns the division remainder.
+Example: JS-modulus.html
+
+
+#Note:
+
+*In arithmetic, the division of two integers produces a quotient and a remainder.
+
+*In mathematics, the result of a modulo operation is the remainder of an arithmetic division.
