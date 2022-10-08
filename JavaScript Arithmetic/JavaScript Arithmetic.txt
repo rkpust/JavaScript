@@ -53,3 +53,10 @@ Subtracting
 
 The subtraction operator (-) subtracts numbers.
 Example: JS-subtraction.html
+
+----------------------------------------------
+
+Multiplying
+
+The multiplication operator (*) multiplies numbers.
+Example: JS-multiplication.html
