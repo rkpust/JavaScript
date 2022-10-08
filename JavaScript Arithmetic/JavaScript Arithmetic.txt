@@ -46,3 +46,10 @@ Operand 	Operator 	Operand
 Adding
 
 The addition operator (+) adds numbers: JS-addition.html
+
+--------------------------------------------------------
+
+Subtracting
+
+The subtraction operator (-) subtracts numbers.
+Example: JS-subtraction.html
