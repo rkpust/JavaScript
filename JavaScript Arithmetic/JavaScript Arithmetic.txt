@@ -88,3 +88,9 @@ Incrementing
 
 The increment operator (++) increments numbers.
 Example: JS-increment.html
+
+-------------------------------------
+Decrementing
+
+The decrement operator (--) decrements number.
+Example: JS-decrement.html
