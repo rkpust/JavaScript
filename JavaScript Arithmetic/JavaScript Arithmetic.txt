@@ -94,3 +94,11 @@ Decrementing
 
 The decrement operator (--) decrements number.
 Example: JS-decrement.html
+
+
+--------------------------------------------
+
+Exponentiation
+
+The exponentiation operator (**) raises the first operand to the power of the second operand.
+Example: JS-exponentiation .html
