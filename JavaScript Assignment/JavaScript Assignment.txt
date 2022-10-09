@@ -41,4 +41,13 @@ The = assignment operator assigns a value to a variable.
 Simple Assignment
 let x = 10; 
 
+------------------------------------------------------
+
+The += Operator
+
+The += assignment operator adds a value to a variable.
+Addition Assignment
+let x = 10;
+x += 5; 
+
 
