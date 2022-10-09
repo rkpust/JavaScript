@@ -33,4 +33,12 @@ Operator 	Example 	Same As
 ^= 	        x ^= y 	    x = x ^ y
 |= 	        x |= y 	    x = x | y
 
+-----------------------------------------------------
+
+The = Operator
+
+The = assignment operator assigns a value to a variable.
+Simple Assignment
+let x = 10; 
+
 
