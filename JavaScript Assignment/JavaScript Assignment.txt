@@ -14,3 +14,13 @@ Operator 	Example 	Same As
 
 #The **= operator is a part of ECMAScript 2016.
 #It does not work in Internet Explorer 11 or earlier.
+
+-----------------------------------------------------
+Shift Assignment Operators
+
+Operator 	Example 	Same As
+<<= 	    x <<= y 	x = x << y
+>>= 	    x >>= y 	x = x >> y
+>>>= 	    x >>>= y 	x = x >>> y
+
+
