@@ -59,6 +59,15 @@ Subtraction Assignment
 let x = 10;
 x -= 5; 
 
+------------------------------------------------------
 
+The *= Operator
+
+The *= assignment operator multiplies a variable.
+Multiplication Assignment
+let x = 10;
+x *= 5; 
+
+#Output: 50
 
 
