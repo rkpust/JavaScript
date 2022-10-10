@@ -50,4 +50,15 @@ Addition Assignment
 let x = 10;
 x += 5; 
 
+------------------------------------------------------
+
+The -= Operator
+
+The -= assignment operator subtracts a value from a variable.
+Subtraction Assignment
+let x = 10;
+x -= 5; 
+
+
+
 
