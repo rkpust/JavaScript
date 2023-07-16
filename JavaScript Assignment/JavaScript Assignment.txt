@@ -26,7 +26,7 @@ Operator 	Example 	Same As
 
 ----------------------------------------------------
 
-Logical Assignment Operators
+Bitwise Assignment Operators
 
 Operator 	Example 	Same As
 &= 	        x &= y 	    x = x & y
